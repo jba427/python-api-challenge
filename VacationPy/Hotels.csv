@@ -1,0 +1,12 @@
+,City,Country,Lat,Lon,Temp,Cloudiness(%),Windspeed,Humidity,Max Temp,Date,Hotel Name
+46,Cockburn Town,TC,21.46,-71.14,78.76,0,19.01,81,78.76,1586917435,Osprey Beach Hotel
+96,Ratnagiri,IN,16.98,73.3,84.11,0,7.61,66,84.11,1586917323,Sirnaiks Ocean View
+130,Yulara,AU,-25.24,130.99,86.0,0,6.93,13,86.0,1586917849,Desert Gardens Hotel - Ayers Rock Resort
+136,Ampanihy,MG,-24.7,44.75,73.38,0,4.99,65,73.38,1586917850,Angora Hotel
+194,Puerto Colombia,CO,10.99,-74.95,80.6,0,6.93,78,80.6,1586917860,Hotel Puerto Colombia
+390,Sulangan,PH,11.14,123.72,83.97,0,6.33,63,83.97,1586917895,Maia's Beach Resort
+458,Port Macquarie,AU,-31.43,152.92,78.67,0,9.8,54,79.0,1586917849,Sails Port Macquarie by Rydges
+467,Loikaw,MM,19.67,97.21,90.16,0,3.98,22,90.16,1586917908,Myat Nan Taw Hotel
+482,Alice Springs,AU,-23.7,133.88,87.8,0,6.93,15,87.8,1586917912,DoubleTree by Hilton Hotel Alice Springs
+537,Puerto Peñasco,MX,31.32,-113.53,73.99,0,8.01,48,73.99,1586917921,Peñasco Del Sol Hotel and Conference Center
+570,Dali,CN,25.7,100.18,72.34,0,5.37,17,72.34,1586917400,Dali Encounter Hotel
